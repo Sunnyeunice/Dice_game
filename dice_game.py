@@ -1,5 +1,3 @@
-# ABUR VELLA
-# 260831504
 
 
 import random
